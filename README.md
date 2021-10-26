@@ -22,6 +22,7 @@ I'm Harry Tom and I'm a front end developer, Exploring the vast Internet and Wor
 <code><img height="40" src="images/css.png"></code>
 <code><img height="40" src="images/jquery.png"></code>
 <code><img height="40" src="images/node-js.png"></code>
+<code><img height="40" src="images/npm.png"></code>
 <code><img height="40" src="images/python.png"></code>
 <code><img height="40" src="images/cs.png"></code>
 <code><img height="40" src="images/net.png"></code>
