@@ -30,5 +30,9 @@ I'm Harry Tom and I'm a front end developer, Exploring the vast Internet and Wor
 <code><img height="40" src="images/vercel.png"></code>
 <code><img height="40" src="images/heroku.png"></code>
 
+##  Stats
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=harry260&show_icons=true&theme=gotham" alt="harry260" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harry260&layout=compact&langs_count=100&hide=Mathematica,ShaderLab,GLSL,HLSL&theme=radical&exclude_repo=Planet-Portal,OverheatingChaosGame,FizzBuzz-EVERYTHING,ELEVATEgame,Eltusa1,Eltusa2,Eltusa3,Eltusa,AR-RR,ELECTRIFIED)                   
+
