@@ -44,10 +44,21 @@ I'm Harry Tom and I'm a front end developer, Exploring the vast Internet and Wor
 <!--Github Stats-->
 ## 📊 My Github stats
 <div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=harry260&show_icons=true&theme=gotham" alt="harry260" height="137px">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=harry260&show_icons=true&theme=radical" alt="harry260" height="137px">
 
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry260&layout=compact&langs_count=100&hide=Mathematica,ShaderLab,GLSL,HLSL&theme=radical&exclude_repo=PlanetPortal,OverheatingChaosGame,FizzBuzzEVERYTHING,ELEVATEgame,Eltusa1,Eltusa2,Eltusa3,Eltusa,ARRR,ELECTRIFIED" alt="harry260" height="137px">   
 <div>
+  
+ 
+# ⭐ Top repo
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harry260&repo=wikifox&theme=radical)](https://github.com/harry260/wikifox)
+  
+  <a href="https://www.producthunt.com/posts/wikifox?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-wikifox" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=323079&theme=dark" alt="Wikifox - Wikipedia reimagined - clean, simplified, powerful | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/posts/wikifox?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-wikifox" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=323079&theme=dark&period=daily" alt="Wikifox - Wikipedia reimagined - clean, simplified, powerful | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
+ <hr>
+ 
 
 <!--Social badges-->
 ## ✌️ Me at the internet
