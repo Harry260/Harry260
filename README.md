@@ -4,7 +4,8 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230070F3&size=24&height=35&lines=Hello%2C+I+am+Harry+Tom+👋;I+am+a+developer!)
 I'm Harry Tom and I'm a front end developer, Exploring the vast Internet and Working on small projects. Learning new things, and tryig to learn backend technology.
 
-<a href="https://www.buymeacoffee.com/harrytom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<br>
+<a href="https://www.buymeacoffee.com/harrytom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a><br>
 <br>
 
 <!--Skill badges-->
