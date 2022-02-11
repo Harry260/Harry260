@@ -37,7 +37,7 @@ I'm Harry Tom and I'm a front end developer, Exploring the vast Internet and Wor
         ⚝  Fun fact: I'm just 14 ⚡<br>
     </td>
     <td>
-        <img align="left" src="https://raw.githubusercontent.com/Harry260/Harry260/f192af810e2139bc3c4d60386818dff4c6d0f684/images/macbook.svg" width="312px" heigth="188px" />
+       <a href="https://app.daily.dev/harrify"><img src="https://api.daily.dev/devcards/efb055919fb24819beb4224b82a666ab.png?r=jqj" width="180" alt="Harry Tom's Dev Card"/></a>
     </td>
   </tr>
 </table>
