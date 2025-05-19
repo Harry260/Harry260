@@ -4,9 +4,11 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230070F3&size=24&height=35&lines=Hello%2C+I'm+Harry+👋;I'm+a+developer!)
 I'm Harry Tom — a front-end dev exploring the vast internet and cooking up random mini projects. Always hungry to learn something new 😎  
 <br>
-<a href="https://www.buymeacoffee.com/harrytom" target="_blank">
+<!--a href="https://www.buymeacoffee.com/harrytom" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
-</a>
+
+I HATE BUY ME A COFEE> THEY ARE SCAMMERS
+</a-->
 <br><br>
 
 <!--Skill badges-->
